@@ -1,0 +1,8 @@
+package lms.model;
+
+public enum AttendanceStatus {
+    PRESENT,
+    ABSENT,
+    LATE,
+    EXCUSED
+}
